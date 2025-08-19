@@ -16,4 +16,4 @@ You can set minutes and seconds, start the countdown, pause, or reset it.
 
 ## Preview
 
-<img src="Calculator/pictures/Calculator.png" alt="Modern Calculator preview" width="500">
+<img src="Timer/pictures/Timer.png" alt="Timer preview" width="500">
