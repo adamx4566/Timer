@@ -13,3 +13,5 @@ You can set minutes and seconds, start the countdown, pause, or reset it.
 - HTML5
 - CSS3
 - Vanilla JavaScript
+
+<img src="Calculator/pictures/Calculator.png" alt="Modern Calculator preview" width="500">
